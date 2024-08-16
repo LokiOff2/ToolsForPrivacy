@@ -1,11 +1,9 @@
-🔒**ToolsForPrivacy**🔒
---------------------------------------------------------
+# 🔒 **ToolsForPrivacy** 🔒
 
-🖥️**BROWSERS**🖥️
+## 🖥️ **BROWSERS** 🖥️
 
-[Brave](https://brave.com/) {Chrome Engine, Good Adblocker, Available for Android, Open Source}
-
-
-[LibreWolf](https://librewolf.net/) {A modified version of Firefox focused on privacy, Open Source}
-
-[Mullvad Browser](https://mullvad.net/en/browser) {Built-in uBlockOrigin extension, Open Source}
+| **Browser**          | **Description**                                                                                      |
+|----------------------|------------------------------------------------------------------------------------------------------|
+| [**Brave**](https://brave.com/)            | - Based on Chromium engine<br>- Built-in adblocker<br>- Available for Android<br>- Open Source |
+| [**LibreWolf**](https://librewolf.net/)        | - Privacy-focused version of Firefox<br>- Enhanced privacy features<br>- Open Source                 |
+| [**Mullvad Browser**](https://mullvad.net/en/browser)  | - Includes built-in uBlock Origin extension<br>- Strong privacy settings by default<br>- Open Source |
