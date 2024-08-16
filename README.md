@@ -1,4 +1,5 @@
 # 🔒 **ToolsForPrivacy** 🔒
+![Good](https://img.shields.io/badge/Privacy-Good-Yellow?logo=torproject&logoColor=purple&logoSize=250)
 
 ## 🖥️ **BROWSERS** 🖥️
 
